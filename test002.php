@@ -1,3 +1,1 @@
-echo "koba";
-
-echo "Nikoloz"
+echo "koba"
